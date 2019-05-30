@@ -1,0 +1,28 @@
+{
+  "name": "basichtml",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "express-less": "^0.1.0",
+    "gulp": "^4.0.2",
+    "gulp-less": "^4.0.1",
+    "http-errors": "~1.6.3",
+    "less-express": "^1.1.0",
+    "morgan": "~1.9.1",
+    "pug": "2.0.0-beta11"
+  },
+  "devDependencies": {
+    "autoprefixer": "^9.5.1",
+    "browser-sync": "^2.26.5",
+    "cssnano": "^4.1.10",
+    "gulp-postcss": "^8.0.0",
+    "gulp-sourcemaps": "^2.6.5",
+    "nodemon": "^1.19.1"
+  }
+}
